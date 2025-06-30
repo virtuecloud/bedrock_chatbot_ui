@@ -1,0 +1,353 @@
+[
+    {
+      "name": "Rohan Mehta",
+      "partnerName": "Neha Sharma",
+      "user_id": "userRohanMehta",
+      "age": [
+        "32 (Rohan)",
+        "30 (Neha)"
+      ],
+      "location": "Bengaluru",
+      "maritalStatus": "Married",
+      "dependents": "None",
+      "occupation": [
+        "Senior Product Manager (SaaS) (Rohan)",
+        "Lead UX Designer (Neha)"
+      ],
+      "combinedAnnualIncome": "64,00,000 (42L Rohan, 22L Neha, post-tax)",
+      "combinedMonthlyIncome": "5,33,333",
+      "monthlyExpenses": "1,80,000",
+      "monthlyExpensesBreakdown": {
+        "rent": "60,000",
+        "lifestyle": "70,000",
+        "utilities": "20,000",
+        "leisure": "30,000"
+      },
+      "monthlySurplus": "3,53,333",
+      "allocationBreakdown": [
+        {
+          "investableSurplus": "1,20,000 (SIPs, stocks, crypto, P2P)"
+        },
+        {
+          "emergencyFundTopUp": "20,000/month"
+        },
+        {
+          "discretionaryGoals": "1,00,000 (travel, gadgets, future downpayment, tax-saving investments)"
+        },
+        {
+          "cashBuffer": "1,13,333 (for short-term goals, liquidity, or future investments)"
+        }
+      ],
+      "combinedEmergencyFund": "5,00,000 (revised, joint)",
+      "healthInsurance": [
+        "10,00,000 (employer)",
+        "20,00,000 (personal top-up)"
+      ],
+      "termInsurance": "None",
+      "investments": [
+        {
+          "equityMFs": "14,00,000 (12L Rohan + 2L Neha)"
+        },
+        {
+          "stocks": "8,20,000 (6L Rohan + 2.2L Neha)"
+        },
+        {
+          "fDs": "4,00,000 (Rohan only)"
+        },
+        {
+          "cryptoP2P": "2,00,000 (Rohan, P2P)"
+        }
+      ],
+      "loans": "None",
+      "goals": [
+        "3BHK in 5 years (2.5 Cr.+)",
+        "FIRE by 45",
+        "international trip every 2 years"
+      ],
+      "digitalComfort": "High",
+      "investmentPlatforms": [
+        "Zerodha",
+        "Groww",
+        "CRED",
+        "Fi"
+      ],
+      "householdNotes": "Neha prefers automated SIPs, Rohan actively manages equity/crypto. Surplus allocation is dynamic and reviewed quarterly.",
+      "riskProfile": {
+        "score": 47,
+        "category": "high"
+      }
+    },
+    {
+      "name": "Dr. Shalini Gupta & Rajesh Gupta",
+      "age": [
+        "47 (Shalini)",
+        "49 (Rajesh)"
+      ],
+      "user_id": "userShaliniGupta",
+      "location": "Delhi NCR",
+      "maritalStatus": "Married",
+      "dependents": [
+        "2 children (11 & 14)"
+      ],
+      "occupation": [
+        "Gynecologist (private practice) (Shalini)",
+        "Deputy Secretary (State Govt.) (Rajesh)"
+      ],
+      "combinedAnnualIncome": "1,02,00,000 (80L Shalini, 22L Rajesh, post-tax)",
+      "combinedMonthlyIncome": "8,50,000",
+      "monthlyExpenses": "3,50,000",
+      "monthlyExpensesBreakdown": {
+        "homeEMI": "52,000",
+        "school": "1,00,000",
+        "clinicStaff": "70,000",
+        "lifestyle": "1,28,000"
+      },
+      "monthlySurplus": "5,00,000",
+      "allocationBreakdown": [
+        {
+          "investableSurplus": "2,50,000 (MFs, FDs, gold, PPF)"
+        },
+        {
+          "discretionaryGoals": "1,50,000 (travel, kids' extracurriculars, tax-saving)"
+        },
+        {
+          "cashBuffer": "1,00,000 (for liquidity, future clinic expansion, or unplanned expenses)"
+        }
+      ],
+      "combinedEmergencyFund": "5,00,000 (joint)",
+      "termInsurance": [
+        "1,00,00,000 (Shalini)",
+        "50,00,000 (Rajesh)"
+      ],
+      "healthInsurance": "25,00,000 (family floater)",
+      "accidentInsurance": "10,00,000",
+      "investments": [
+        {
+          "mFs": "50,00,000 (Shalini) + 5,00,000 (Rajesh) = 55,00,000"
+        },
+        {
+          "fDs": "30,00,000 (Shalini) + 5,00,000 (Rajesh) = 35,00,000"
+        },
+        {
+          "gold": "10,00,000 (ETF) + 5,00,000 (Sukanya Samriddhi) = 15,00,000"
+        },
+        {
+          "pPF": "5,00,000 (Rajesh)"
+        },
+        {
+          "uLIPs": "15,00,000 (legacy, Shalini)"
+        }
+      ],
+      "loans": "40,00,000 home loan (joint, EMI 52k, 6 years left)",
+      "goals": [
+        "Children's education",
+        "clinic expansion"
+      ],
+      "behavioralNotes": "Prefers CA-managed investments, uses chit funds for liquidity, occasional cash income",
+      "riskProfile": {
+        "score": 40,
+        "category": "med"
+      }
+    },
+    {
+      "name": "Anil Deshmukh & Sunita Deshmukh",
+      "age": [
+        "58 (Anil)",
+        "55 (Sunita)"
+      ],
+      "user_id": "userAnilDeshmukh",
+      "location": "Pune",
+      "maritalStatus": "Married",
+      "dependents": "None, 2 adult children (self-sufficient)",
+      "occupation": [
+        "Owner \u2013 Logistics & Warehousing firm (Anil)",
+        "Homemaker (Sunita)"
+      ],
+      "combinedAnnualIncome": "1,20,00,000 (Anil only, post-tax)",
+      "combinedMonthlyIncome": "10,00,000",
+      "monthlyExpenses": "2,20,000",
+      "monthlyExpensesBreakdown": {
+        "household": "1,50,000",
+        "business": "70,000"
+      },
+      "monthlySurplus": "7,80,000",
+      "allocationBreakdown": [
+        {
+          "businessReinvestment": "5,00,000"
+        },
+        {
+          "investableSurplus": "2,80,000 (FDs, gold, MFs)"
+        }
+      ],
+      "combinedEmergencyFund": "8,00,000 (joint)",
+      "termInsurance": "1,50,00,000 (Anil)",
+      "healthInsurance": "20,00,000 (individual senior policy)",
+      "investments": [
+        {
+          "realEstate": "1,00,00,000+ (commercial + residential)"
+        },
+        {
+          "fDs": "25,00,000"
+        },
+        {
+          "mFsStocks": "30,00,000"
+        },
+        {
+          "gold": "8,00,000"
+        }
+      ],
+      "loans": "Business loan (EMI 70k, 4 years left)",
+      "goals": [
+        "Passive retirement income",
+        "estate planning",
+        "charity trust setup"
+      ],
+      "behavioralNotes": "30% income in cash, relies on family CA, avoids digital platforms",
+      "riskProfile": {
+        "score": 23,
+        "category": "low"
+      }
+    },
+    {
+      "name": "Ayesha Khan",
+      "age": "32",
+      "location": "Mumbai",
+      "user_id": "userAyeshaKhan",
+      "maritalStatus": "Single",
+      "dependents": "1 parent",
+      "occupation": "Independent Marketing Consultant",
+      "annualIncome": "36,00,000 (post-tax)",
+      "monthlyIncome": "3,00,000",
+      "monthlyExpenses": "1,80,000",
+      "monthlySurplus": "1,20,000",
+      "allocationBreakdown": [
+        {
+          "investableSurplus": "60,000 (hybrid MFs, FDs)"
+        },
+        {
+          "loanRepayment": "22,000"
+        },
+        {
+          "parentHealthcareFund": "30,000"
+        },
+        {
+          "cashBuffer": "8,000 (for hedging income volatility)"
+        }
+      ],
+      "emergencyFund": "5,00,000",
+      "healthInsurance": "7,00,000 (self-purchased)",
+      "termInsurance": "25,00,000",
+      "investments": [
+        {
+          "mFs": "6,00,000 (mostly hybrid)"
+        },
+        {
+          "fDs": "5,00,000"
+        },
+        {
+          "gold": "2,00,000 (jewelry)"
+        }
+      ],
+      "loans": "10,00,000 personal loan (EMI 22k, 4 years left)",
+      "goals": [
+        "Retirement at 60",
+        "fund parent healthcare",
+        "buy own flat (1.8Cr)"
+      ],
+      "techSavviness": "Medium",
+      "digitalPlatformsUsed": [
+        "ET Money",
+        "Kuvera",
+        "WhatsApp finfluencers"
+      ],
+      "riskProfile": {
+        "score": 35,
+        "category": "med"
+      }
+    },
+    {
+      "name": "Vikram Arora & Priya Sinha (Future Married Scenario)",
+      "age": [
+        "29 (Vikram)",
+        "29 (Priya)"
+      ],
+      "location": "Gurgaon",
+      "user_id": "userVikramPriya",
+      "maritalStatus": "Engaged (to merge finances in 2026)",
+      "dependents": "None",
+      "occupation": [
+        "Data Scientist (Startup) (Vikram)",
+        "Corporate Lawyer (Priya)"
+      ],
+      "combinedAnnualIncome": "63,00,000 (35L Vikram, 28L Priya, post-tax)",
+      "combinedMonthlyIncome": "5,25,000",
+      "monthlyExpenses": "1,40,000",
+      "monthlyExpensesBreakdown": {
+        "rent": "70,000",
+        "discretionary": "60,000",
+        "bikeEMI": "9,000"
+      },
+      "monthlySurplus": "3,85,000",
+      "allocationBreakdown": [
+        {
+          "investableSurplus": "2,50,000 (Vikram: equity, crypto; Priya: FDs, hybrid MFs)"
+        },
+        {
+          "emergencyFundTopUp": "50,000/month (until 10L joint emergency fund reached)"
+        },
+        {
+          "discretionaryGoals": "85,000 (travel, gadgets, tax-saving)"
+        }
+      ],
+      "combinedEmergencyFund": "10,00,000 (future target)",
+      "termInsurance": [
+        "1,00,00,000 (Vikram)",
+        "50,00,000 (Priya, planned)"
+      ],
+      "healthInsurance": [
+        "10,00,000 (Vikram)",
+        "5,00,000 (parents)",
+        "10,00,000 (Priya, planned)"
+      ],
+      "investments": [
+        {
+          "equityMFs": "15,00,000 (Vikram, smallcap/equity)"
+        },
+        {
+          "stocks": "12,00,000 (Vikram, US + Indian)"
+        },
+        {
+          "crypto": "3,00,000 (Vikram, BTC, ETH, Sol)"
+        },
+        {
+          "fDs": "8,00,000 (Priya, planned)"
+        }
+      ],
+      "loans": "3,00,000 bike loan (EMI 9k, 1.5 years left)",
+      "goals": [
+        "FIRE at 45",
+        "world travel",
+        "angel investing"
+      ],
+      "techSavviness": [
+        "Very High (Vikram)",
+        "Medium (Priya)"
+      ],
+      "toolsUsed": [
+        "Zerodha",
+        "Smallcase",
+        "Coin",
+        "Delta",
+        "INDmoney",
+        "Python scripts"
+      ],
+      "riskProfile": {
+        "vikramScore": 55,
+        "priyaScore": 40,
+        "categories": [
+          "high",
+          "med"
+        ]
+      }
+    }
+  ]
