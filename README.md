@@ -1,4 +1,11 @@
-### ✅ `README.md`
+### ✅ VirtueAI
+
+<h1 align="center"> Virtuecloud </h1> <br>
+<p align="center">
+  <a href="https://virtuecloud.io/">
+    <img alt="Virtuecloud" title="Virtuecloud" src="https://virtuecloud.io/assets/images/logo.png" width="450">
+  </a>
+</p>
 
 ````markdown
 # 🤖 Bedrock Financial Chatbot UI
@@ -82,7 +89,7 @@ docker run -p 8501:8501 bedrock-chatbot-ui
 
 ## 📦 DynamoDB Usage
 
-Ensure you have a DynamoDB table named `AgentChatSessions`. It stores:
+Ensure you have a DynamoDB table named that stores:
 
 * `user_id`, `session_id`
 * Chat history
