@@ -12,7 +12,7 @@ st.markdown("<style>footer {visibility: hidden;}</style>", unsafe_allow_html=Tru
 # === Load users and models ===
 users = load_users()
 user_names = [user["name"] for user in users]
-agent_names = ["nova"]
+agent_names = ["agent["name"] for agent in agents]
 
 # === Init session state ===
 if "sessions" not in st.session_state:
