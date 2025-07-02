@@ -74,7 +74,7 @@ with st.sidebar:
                     st.json(msg["trace"], expanded=False)
 
 # === Top Controls ===
-st.title("🤖 Chat with Bedrock Agent")
+st.title("🤖 Plan your Finances")
 
 top_cols = st.columns([3, 3, 2])  # changed from 4 columns to 3
 session = st.session_state.sessions.get(st.session_state.session_id, {})
