@@ -1,4 +1,4 @@
-### ✅ VirtueAI
+### VirtueAI
 
 <h1 align="center"> Virtuecloud </h1> <br>
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 ````markdown
-# 🤖 Bedrock Financial Chatbot UI
+#  Bedrock Financial Chatbot UI
 
 This is a Streamlit-based chatbot UI that connects to Amazon Bedrock Agents to answer personalized financial planning questions using user profile context.
 
@@ -16,7 +16,7 @@ This is a Streamlit-based chatbot UI that connects to Amazon Bedrock Agents to a
 
 ## 🔧 Setup Instructions
 
-### 📁 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-org/bedrock-chatbot.git
@@ -25,7 +25,7 @@ cd bedrock-chatbot
 
 ---
 
-## 🧠 2. Update Bedrock Agent Details
+##  2. Update Bedrock Agent Details
 
 Edit `agent_backend.py` and update the AGENTS list:
 
@@ -58,9 +58,9 @@ AGENTS = [
 
 ---
 
-## 💻 Run the App Locally (macOS/Linux)
+##  Run the App Locally (macOS/Linux)
 
-### ⏬ Step 1: Create Virtual Environment & Install
+### Step 1: Create Virtual Environment & Install
 
 ```bash
 python3 -m venv venv
@@ -68,7 +68,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### ▶️ Step 2: Run the App
+### ▶ Step 2: Run the App
 
 ```bash
 streamlit run ask_to_ui.py
@@ -78,7 +78,7 @@ Then visit "http://localhost:8501"
 
 ---
 
-## 📦 Run with Docker (Optional)
+## Run with Docker (Optional)
 
 Build and run:
 
@@ -87,7 +87,7 @@ docker build -t bedrock-chatbot-ui .
 docker run -p 8501:8501 bedrock-chatbot-ui
 ```
 
-## 📦 DynamoDB Usage
+## DynamoDB Usage
 
 Ensure you have a DynamoDB table named that stores:
 
@@ -98,7 +98,7 @@ Ensure you have a DynamoDB table named that stores:
 
 ---
 
-## 🔍 Features
+## Features
 
 * Multi-user + multi-agent Bedrock chat support
 * Session persistence using DynamoDB
