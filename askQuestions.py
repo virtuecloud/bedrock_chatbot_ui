@@ -12,7 +12,7 @@ AGENTS = [
         "id": "LLVN2G9LS2",
         "alias_id": "IWQ6IYGOBY"
         }
-    }
+    },
     { 
         "nova": {
         "id": "EM94PK8GSP",
