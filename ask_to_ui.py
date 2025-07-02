@@ -6,7 +6,7 @@ from agent_backend import load_users, create_session, invoke_agent, get_agent_by
 from dynamodb_backend import save_session_to_dynamodb, load_session_from_dynamodb
 
 # === Page Setup ===
-st.set_page_config(page_title="ChatGPT-style Agent", layout="wide")
+st.set_page_config(page_title="VirtueAI", layout="wide")
 st.markdown("<style>footer {visibility: hidden;}</style>", unsafe_allow_html=True)
 
 # === Load users and models ===
