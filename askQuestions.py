@@ -4,25 +4,15 @@ import json
 import os
 import csv
 
-
-
-
-
 # === CONFIGURATION ===
 region = "us-east-1"
 AGENTS = [
-    # { 
-    #     "claude": {
-    #     "id": "LLVN2G9LS2",
-    #     "alias_id": "IWQ6IYGOBY"
-    #     }
-    # }
-    # { 
-    #     "llama": {
-    #     "id": "HHUSQUSYWA",
-    #     "alias_id": "TKVAQ20UCR"
-    #     }
-    # }
+    { 
+        "claude": {
+        "id": "LLVN2G9LS2",
+        "alias_id": "IWQ6IYGOBY"
+        }
+    }
     { 
         "nova": {
         "id": "EM94PK8GSP",
