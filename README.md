@@ -117,4 +117,4 @@ Ask Questions: Type your financial question in the chat box and press enter.
 
 Review Traces (optional): Open the sidebar, check "📊 Show Traces" to view trace metadata.
 
-View Context: Expand "📄 User Context" to see user data used for answering.
+View Context: Expand "User Context" to see user data used for answering.
