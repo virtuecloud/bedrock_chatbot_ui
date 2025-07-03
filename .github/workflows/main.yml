@@ -34,7 +34,7 @@ jobs:
           IMAGE_TAG: v1.03
         run: |
           echo " Building Docker Image..."
-          docker buildx build --platform linux/arm64 $ECR_REPOSITORY:$IMAGE_TAG .
+          docker buildx build --platform linux/arm64 -t $ECR_REPOSITORY:$IMAGE_TAG .
 
           echo " Tagging Image..."
           docker tag $ECR_REPOSITORY:$IMAGE_TAG $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
