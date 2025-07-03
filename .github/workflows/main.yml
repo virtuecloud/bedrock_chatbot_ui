@@ -16,6 +16,9 @@ jobs:
     steps:
       - name:  Checkout code
         uses: actions/checkout@v3
+      
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
 
       - name:  Configure AWS credentials via OIDC
         uses: aws-actions/configure-aws-credentials@v2
