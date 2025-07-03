@@ -1,4 +1,4 @@
-### VirtueAI
+## VirtueAI
 
 <h1 align="center"> Virtuecloud </h1> <br>
 <p align="center">
@@ -14,7 +14,7 @@ This is a Streamlit-based chatbot UI that connects to Amazon Bedrock Agents to a
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -68,7 +68,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### ▶ Step 2: Run the App
+### Step 2: Run the App
 
 ```bash
 streamlit run ask_to_ui.py
@@ -107,14 +107,14 @@ Ensure you have a DynamoDB table named that stores:
 
 ## How to Use the Chatbot UI
 
-Select User: Choose a user profile from the dropdown (loaded from userProfilesAll.json).
+* Select User: Choose a user profile from the dropdown (loaded from userProfilesAll.json).
 
-Select Model: Pick a Bedrock agent (e.g., nova, claude).
+* Select Model: Pick a Bedrock agent (e.g., nova, claude).
 
-Start New Session: Click ➕ "New Session" to begin.
+* Start New Session: Click ➕ "New Session" to begin.
 
-Ask Questions: Type your financial question in the chat box and press enter.
+* Ask Questions: Type your financial question in the chat box and press enter.
 
-Review Traces (optional): Open the sidebar, check "📊 Show Traces" to view trace metadata.
+* Review Traces (optional): Open the sidebar, check "📊 Show Traces" to view trace metadata.
 
-View Context: Expand "User Context" to see user data used for answering.
+* View Context: Expand "User Context" to see user data used for answering.
