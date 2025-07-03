@@ -104,3 +104,17 @@ Ensure you have a DynamoDB table named that stores:
 * Session persistence using DynamoDB
 * Token usage + traces visible in UI
 * Fully containerized + deployable via CI/CD to ECR
+
+## How to Use the Chatbot UI
+
+Select User: Choose a user profile from the dropdown (loaded from userProfilesAll.json).
+
+Select Model: Pick a Bedrock agent (e.g., nova, claude).
+
+Start New Session: Click ➕ "New Session" to begin.
+
+Ask Questions: Type your financial question in the chat box and press enter.
+
+Review Traces (optional): Open the sidebar, check "📊 Show Traces" to view trace metadata.
+
+View Context: Expand "📄 User Context" to see user data used for answering.
