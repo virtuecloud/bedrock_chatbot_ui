@@ -11,9 +11,9 @@ DYNAMO_TABLE_NAME = "AgentChatSessions"
 # === AGENT CONFIGURATION ===
 AGENTS = [
     {
-        "name": "nova",
-        "id": "EM94PK8GSP",
-        "alias_id": "JP5VFNAFTY"
+        "name": "Nova-Agent",
+        "id": "0EKGDLFNFI",
+        "alias_id": "ZT7BK3IAY6"
     }
 ]
 

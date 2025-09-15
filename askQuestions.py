@@ -8,9 +8,9 @@ import csv
 region = "us-east-1"
 AGENTS = [
     { 
-        "nova": {
-        "id": "EM94PK8GSP",
-        "alias_id": "JP5VFNAFTY"
+        "Nova-Agent": {
+        "id": "0EKGDLFNFI",
+        "alias_id": "ZT7BK3IAY6"
         }
     }
 ]
