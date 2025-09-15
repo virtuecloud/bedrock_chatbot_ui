@@ -6,7 +6,7 @@ import os
 # === CONFIGURATION ===
 REGION = "us-east-1"
 USER_CONTEXT_FILE = "userProfilesAll.json"
-DYNAMO_TABLE_NAME = "AgentChatSessions"
+DYNAMO_TABLE_NAME = "AgentChatSessionsFinops"
 
 # === AGENT CONFIGURATION ===
 AGENTS = [

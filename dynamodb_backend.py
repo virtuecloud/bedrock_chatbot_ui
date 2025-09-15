@@ -3,7 +3,7 @@ from datetime import datetime
 from decimal import Decimal
 
 dynamodb = boto3.resource("dynamodb", region_name="us-east-1")
-table = dynamodb.Table("AgentChatSessions")  # Ensure this table exists
+table = dynamodb.Table("AgentChatSessionsFinops")  # Ensure this table exists
 
 def clean_data(obj):
     """Recursively convert float → Decimal, datetime → str"""

@@ -3,7 +3,7 @@ import boto3
 dynamodb = boto3.client('dynamodb', region_name='us-east-1')
 
 dynamodb.create_table(
-    TableName='AgentChatSessions',
+    TableName='AgentChatSessionsFinops',
     KeySchema=[
         {'AttributeName': 'user_id', 'KeyType': 'HASH'},
         {'AttributeName': 'session_id', 'KeyType': 'RANGE'}
